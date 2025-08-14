@@ -1,2 +1,4 @@
 # Project-1-Todo-List-Basic
-A basic todo list where users can only add items
+A simple todo list application where users can add tasks to the list.
+(No edit or delete functionality.)
+
